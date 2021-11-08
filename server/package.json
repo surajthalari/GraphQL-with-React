@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "express-graphql": "^0.6.12",
-    "graphiql": "^0.11.11",
+    "graphiql": "^1.4.7",
     "graphql": "^14.0.0",
     "lodash": "^4.17.10",
     "mongoose": "^5.2.14"
